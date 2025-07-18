@@ -46,6 +46,8 @@ You can install dependencies using:
 ```bash
 pip install -r requirements.txt
 
+```
+
 ## Usage
 
 Clone the repository:
@@ -53,14 +55,18 @@ Clone the repository:
 ```bash
 git clone https://github.com/musfique-anam/house-price-prediction-ml.git
 
+```
 Navigate to the project folder:
 
+```bash
 cd house-price-prediction-ml
 
+```
 Open the Jupyter Notebook house_price_prediction_ml.ipynb and run all cells.
 
 ## File Structure
 
+```bash
 house-price-prediction-ml/
 │
 ├── house_price_prediction_ml.ipynb # Jupyter notebook with full code
@@ -68,3 +74,5 @@ house-price-prediction-ml/
 │ └── actual_vs_predicted.png # Plot image of predictions
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+
+```
