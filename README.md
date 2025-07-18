@@ -69,10 +69,10 @@ Open the Jupyter Notebook house_price_prediction_ml.ipynb and run all cells.
 ```bash
 house-price-prediction-ml/
 │
+├── images/                         # Folder containing saved plots
+│ └── actual_vs_predicted.png       # Plot image of predictions
+└── README.md                       # Project documentation
 ├── house_price_prediction_ml.ipynb # Jupyter notebook with full code
-├── images/ # Folder containing saved plots
-│ └── actual_vs_predicted.png # Plot image of predictions
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── requirements.txt                # Python dependencies
 
 ```
